@@ -12,4 +12,7 @@ To run, you need to:
   
   > yarn start
 ```
+> To install yarn, run this on terminal: ```npm install --global yarn```
 
+## Screenshot
+<img src="public/screenshot/example.png" alt="app screenshot"/>
